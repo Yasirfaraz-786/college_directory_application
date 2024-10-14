@@ -1,0 +1,5 @@
+com\example\CollegeDirectory\Repository\UserRepositoryTest.class
+UserServiceTest.class
+com\example\CollegeDirectory\AuthControllerTest.class
+com\example\CollegeDirectory\TestSecurityConfig.class
+com\example\CollegeDirectory\CollegeDirectoryApplicationTests.class
